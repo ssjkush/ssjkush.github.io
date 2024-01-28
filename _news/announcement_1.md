@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Filed patent Replication Progress Tracking.
+Patent filed at Nutanix for Replication Progress Tracking.
