@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Filed patent Automating The Configuration and Tuning of a Disaster Recovery Preparation System.
+Patent filed at Nutanix for Automating The Configuration and Tuning of a Disaster Recovery Preparation System.
